@@ -1,0 +1,2 @@
+baseline_variant,sentiment_variant,dir_acc_baseline,dir_acc_with_sentiment,dir_acc_lift_pp,rmse_baseline,rmse_with_sentiment,rmse_change_pct
+A0_tech_only,A1_tech_plus_sentiment,0.4307692307692308,0.4307692307692308,0.0,0.03341325661499885,0.03341325661499885,0.0

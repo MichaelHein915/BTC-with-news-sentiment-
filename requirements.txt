@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+requests
+feedparser
+tqdm
+lightgbm
+xgboost
+transformers
+torch
+pytrends
+statsmodels
+python-pptx
